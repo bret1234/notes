@@ -1,0 +1,1 @@
+// C++ notes file as actual c extention 
