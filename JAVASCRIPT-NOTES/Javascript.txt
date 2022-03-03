@@ -1,2 +1,1 @@
 // javascript notes page
-// test 2 of 2 of vsc commit
