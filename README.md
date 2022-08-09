@@ -12,3 +12,4 @@ THIS IS UNIVERSAL QUICK NOTES PAGE.......
 ## test from m1 mbp 16 m1
 # test
 # test again
+# test from the extension
