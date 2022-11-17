@@ -17,3 +17,4 @@ THIS IS UNIVERSAL QUICK NOTES PAGE.......
 # test from sidebar git stuff
 # test again, frim MS
 # test for circlie ci
+# circle ci is working now
